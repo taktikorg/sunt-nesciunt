@@ -1,13 +1,13 @@
 {
   "name": "@taktikorg/sunt-nesciunt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
   "author": "taktikangt6",
   "license": "MIT",
   "dependencies": {
-    "@dramaorg/esse-praesentium-eligendi": "^2.3.19",
+    "@dramaorg/esse-praesentium-eligendi": "^2.3.20",
     "@juigorg/sit-nam-neque": "^1.0.23",
     "@kollorg/dicta-itaque-nemo": "^1.1.22",
     "@swenkerorg/modi-dolorum-provident": "^3.3.18",
